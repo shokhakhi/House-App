@@ -1,4 +1,4 @@
-# house-app
+This is a Vue.js project created for house-app 
 
 ## Project setup
 ```
